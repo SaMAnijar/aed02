@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1681338939 source:c:\users\samue\aed02\lista01\questao01.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+
+1681337145 c:\users\samue\aed02\lista01\questao01.h
+
+1681353987 source:c:\users\samue\aed02\lista01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"questao01.h"
+	"questao02.h"
+	"questao03.h"
+	"questao04.h"
+	"questao05.h"
+
+1681338205 c:\users\samue\aed02\lista01\questao02.h
+
+1681340728 source:c:\users\samue\aed02\lista01\questao02.c
+	<stdio.h>
+	<stdlib.h>
+	"questao02.h"
+
+1681341750 c:\users\samue\aed02\lista01\questao03.h
+
+1681344591 source:c:\users\samue\aed02\lista01\questao03.c
+	<stdio.h>
+	<stdlib.h>
+	"questao03.h"
+
+1681345150 c:\users\samue\aed02\lista01\questao04.h
+
+1681345375 source:c:\users\samue\aed02\lista01\questao04.c
+	<stdio.h>
+	<stdlib.h>
+	"questao04.h"
+
+1681354357 c:\users\samue\aed02\lista01\questao05.h
+
+1681354074 source:c:\users\samue\aed02\lista01\questao05.c
+	<stdio.h>
+	<stdlib.h>
+	"questao05.h"
+
