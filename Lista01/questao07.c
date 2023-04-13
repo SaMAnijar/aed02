@@ -33,6 +33,6 @@ void processamento07( float *r, float *dia, float *per, float *ar, float *volume
 void saida07( float dia, float per, float ar, float volume){
     printf("O adiametro do circulo eh: %.2f\n", dia);
     printf("O perimetro do circulo eh: %.2f\n", per);
-    printf("A area do circulo eh: %.2f\n", ar);
+    printf("A area do circulo eh: %.2f\n", ar);5
     printf("O volume caso fosse uma esfera: %.2f\n", volume);
 }
