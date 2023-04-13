@@ -46,13 +46,22 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="questao03.h" />
-		<Unit filename="questao4.c">
+		<Unit filename="questao04.c">
 			<Option compilerVar="CC" />
-			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
-		<Unit filename="questao4.h">
-			<Option target="&lt;{~None~}&gt;" />
+		<Unit filename="questao04.h" />
+		<Unit filename="questao05.c">
+			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="questao05.h" />
+		<Unit filename="questao06.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questao06.h" />
+		<Unit filename="questao07.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questao07.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

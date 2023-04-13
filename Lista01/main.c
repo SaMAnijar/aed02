@@ -5,9 +5,11 @@
 #include "questao03.h"
 #include "questao04.h"
 #include "questao05.h"
+#include "questao06.h"
+#include "questao07.h"
 
 int main(){
-    questao05();
+    questao07();
 
     return 0;
 }

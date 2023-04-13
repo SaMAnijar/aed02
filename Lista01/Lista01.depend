@@ -6,7 +6,7 @@
 
 1681337145 c:\users\samue\aed02\lista01\questao01.h
 
-1681353987 source:c:\users\samue\aed02\lista01\main.c
+1681412764 source:c:\users\samue\aed02\lista01\main.c
 	<stdio.h>
 	<stdlib.h>
 	"questao01.h"
@@ -14,6 +14,8 @@
 	"questao03.h"
 	"questao04.h"
 	"questao05.h"
+	"questao06.h"
+	"questao07.h"
 
 1681338205 c:\users\samue\aed02\lista01\questao02.h
 
@@ -31,15 +33,29 @@
 
 1681345150 c:\users\samue\aed02\lista01\questao04.h
 
-1681345375 source:c:\users\samue\aed02\lista01\questao04.c
+1681354437 source:c:\users\samue\aed02\lista01\questao04.c
 	<stdio.h>
 	<stdlib.h>
 	"questao04.h"
 
 1681354357 c:\users\samue\aed02\lista01\questao05.h
 
-1681354074 source:c:\users\samue\aed02\lista01\questao05.c
+1681354437 source:c:\users\samue\aed02\lista01\questao05.c
 	<stdio.h>
 	<stdlib.h>
 	"questao05.h"
+
+1681410045 c:\users\samue\aed02\lista01\questao06.h
+
+1681412649 source:c:\users\samue\aed02\lista01\questao06.c
+	<stdio.h>
+	<stdlib.h>
+	"questao06.h"
+
+1681416498 source:c:\users\samue\aed02\lista01\questao07.c
+	<stdio.h>
+	<stdlib.h>
+	"questao07.h"
+
+1681412731 c:\users\samue\aed02\lista01\questao07.h
 
