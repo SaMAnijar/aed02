@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h>
 #include "questao07.h"
 
 void questao07(void){
@@ -7,14 +8,13 @@ void questao07(void){
     float diametro;
     float perimetro;
     float area;
-    float esfera;
-    float pi;
+    float volume;
 
     entrada07(&raio);
 
-    processamento07( &raio, &diametro, &perimetro, &area , &esfera, &pi);
+    processamento07( &raio, &diametro, &perimetro, &area , &volume);
 
-    saida07( &diametro, &perimetro, &area, &esfera);
+    saida07( &diametro, &perimetro, &area, &volume);
 }
 
 void entrada07( float *r){
@@ -22,17 +22,16 @@ void entrada07( float *r){
     scanf("%f", r);
 }
 
-void processamento07( float *r, float *dia, float *per, float *ar, float *volume, float *pi){
-    *pi = 3.14;
+void processamento07( float *r, float *dia, float *per, float *ar, float *vol){
     *dia = *r * 2;
-    *per = (*pi * 2) * *r;
-    *ar = *pi * (*r * *r);
-    *volume = ((4 * *pi) * (*r * *r * *r)) / 3;
+    *per = 2 * 3.14 * *r;
+    *ar = 3.14 * (pow(*r,2));
+    *vol = ((4 * 3.14) * (pow(*r,3))) / 3;
 }
 
-void saida07( float dia, float per, float ar, float volume){
-    printf("O adiametro do circulo eh: %.2f\n", dia);
-    printf("O perimetro do circulo eh: %.2f\n", per);
-    printf("A area do circulo eh: %.2f\n", ar);5
-    printf("O volume caso fosse uma esfera: %.2f\n", volume);
+void saida07( float *dia, float *per, float *ar, float *vol){
+    printf("O diametro do circulo eh: %.2f\n", *dia);
+    printf("O perimetro do circulo eh: %.2f\n", *per);
+    printf("A area do circulo eh: %.2f\n", *ar);
+    printf("O volume caso fosse uma esfera: %.2f\n", *vol);
 }

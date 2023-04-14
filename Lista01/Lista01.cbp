@@ -62,6 +62,58 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="questao07.h" />
+		<Unit filename="questao08.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questao08.h" />
+		<Unit filename="questao09.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questao09.h" />
+		<Unit filename="questao10.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questao10.h" />
+		<Unit filename="questao11.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questao11.h" />
+		<Unit filename="questao12.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questao12.h" />
+		<Unit filename="questao13.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questao13.h" />
+		<Unit filename="questao14.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questao14.h" />
+		<Unit filename="questao15.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questao15.h" />
+		<Unit filename="questao16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questao16.h" />
+		<Unit filename="questao17.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questao17.h" />
+		<Unit filename="questao18.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questao18.h" />
+		<Unit filename="questao19.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questao19.h" />
+		<Unit filename="questao20.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questao20.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
