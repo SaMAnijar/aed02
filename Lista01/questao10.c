@@ -3,20 +3,30 @@
 #include "questao10.h"
 
 void questao10(void){
-char senha[11];
-printf("Digite a senha: ");
-scanf("%s", senha);
+    char senha[11];
 
+    entrada10( &senha);
 
-for (int i = 0; i < strlen(senha); i++) {
-senha[i] = toupper(senha[i]);
+    processamento10( &senha);
+
+    saida10( &senha);
 }
 
-if (strcmp(senha, "LINGUAGEMC") == 0) {
-printf("Senha valida!");
-} else {
-printf("Senha invalida!");
+void entrada10(char *sen){
+    printf("Digite a senha: ");
+    scanf("%s", sen);
 }
 
-return 0;
+void processamento10(char *sen){
+    for (int i = 0; i < strlen(sen); i++) {
+    sen[i] = toupper(sen[i]);
+    }
+}
+
+void saida10(char *sen){
+    if (strcmp(sen, "LINGUAGEMC") == 0) {
+    printf("Senha valida!");
+    }else {
+    printf("Senha invalida!");
+    }
 }

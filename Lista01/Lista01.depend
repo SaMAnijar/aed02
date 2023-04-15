@@ -6,7 +6,7 @@
 
 1681337145 c:\users\samue\aed02\lista01\questao01.h
 
-1681435931 source:c:\users\samue\aed02\lista01\main.c
+1681525547 source:c:\users\samue\aed02\lista01\main.c
 	<stdio.h>
 	<stdlib.h>
 	"questao01.h"
@@ -29,6 +29,10 @@
 	"questao18.h"
 	"questao19.h"
 	"questao20.h"
+	"questao21.h"
+	"questao22.h"
+	"questao23.h"
+	"questao24.h"
 
 1681338205 c:\users\samue\aed02\lista01\questao02.h
 
@@ -75,26 +79,26 @@
 
 1681422893 c:\users\samue\aed02\lista01\questao08.h
 
-1681423761 source:c:\users\samue\aed02\lista01\questao08.c
+1681498549 source:c:\users\samue\aed02\lista01\questao08.c
 	<stdio.h>
 	<stdlib.h>
 	"questao08.h"
 
 1681423813 c:\users\samue\aed02\lista01\questao09.h
 
-1681424515 source:c:\users\samue\aed02\lista01\questao09.c
+1681491324 source:c:\users\samue\aed02\lista01\questao09.c
 	<stdio.h>
 	<stdlib.h>
 	"questao09.h"
 
-1681434493 source:c:\users\samue\aed02\lista01\questao10.c
+1681495888 source:c:\users\samue\aed02\lista01\questao10.c
 	<stdio.h>
 	<stdlib.h>
 	"questao10.h"
 
 1681427318 c:\users\samue\aed02\lista01\questao10.h
 
-1681427632 source:c:\users\samue\aed02\lista01\questao11.c
+1681493496 source:c:\users\samue\aed02\lista01\questao11.c
 	<stdio.h>
 	<stdlib.h>
 	"questao11.h"
@@ -103,12 +107,12 @@
 
 1681427889 c:\users\samue\aed02\lista01\questao12.h
 
-1681428341 source:c:\users\samue\aed02\lista01\questao12.c
+1681494322 source:c:\users\samue\aed02\lista01\questao12.c
 	<stdio.h>
 	<stdlib.h>
 	"questao12.h"
 
-1681428380 source:c:\users\samue\aed02\lista01\questao13.c
+1681495882 source:c:\users\samue\aed02\lista01\questao13.c
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
@@ -118,50 +122,83 @@
 
 1681428624 c:\users\samue\aed02\lista01\questao14.h
 
-1681428643 source:c:\users\samue\aed02\lista01\questao14.c
+1681498057 source:c:\users\samue\aed02\lista01\questao14.c
 	<stdio.h>
 	<stdlib.h>
+	<stdbool.h>
 	"questao14.h"
 
-1681429339 source:c:\users\samue\aed02\lista01\questao15.c
+1681498918 source:c:\users\samue\aed02\lista01\questao15.c
 	<stdio.h>
 	<stdlib.h>
+	<stdbool.h>
 	"questao15.h"
 
 1681429120 c:\users\samue\aed02\lista01\questao15.h
 
 1681429339 c:\users\samue\aed02\lista01\questao16.h
 
-1681429844 source:c:\users\samue\aed02\lista01\questao16.c
+1681499316 source:c:\users\samue\aed02\lista01\questao16.c
 	<stdio.h>
 	<stdlib.h>
+	<stdbool.h>
 	"questao16.h"
 
-1681430129 source:c:\users\samue\aed02\lista01\questao17.c
+1681503292 source:c:\users\samue\aed02\lista01\questao17.c
 	<stdio.h>
 	<stdlib.h>
+	<stdbool.h>
 	"questao17.h"
 
 1681430129 c:\users\samue\aed02\lista01\questao17.h
 
-1681435145 source:c:\users\samue\aed02\lista01\questao18.c
+1681504777 source:c:\users\samue\aed02\lista01\questao18.c
 	<stdio.h>
 	<stdlib.h>
 	"questao18.h"
 
 1681430259 c:\users\samue\aed02\lista01\questao18.h
 
-1681435536 source:c:\users\samue\aed02\lista01\questao19.c
+1681505523 source:c:\users\samue\aed02\lista01\questao19.c
 	<stdio.h>
 	<stdlib.h>
 	"questao19.h"
 
 1681434941 c:\users\samue\aed02\lista01\questao19.h
 
-1681435945 source:c:\users\samue\aed02\lista01\questao20.c
+1681506985 source:c:\users\samue\aed02\lista01\questao20.c
 	<stdio.h>
 	<stdlib.h>
 	"questao20.h"
 
 1681435914 c:\users\samue\aed02\lista01\questao20.h
+
+1681508493 source:c:\users\samue\aed02\lista01\questao21.c
+	<stdio.h>
+	<stdlib.h>
+	"questao21.h"
+
+1681490399 c:\users\samue\aed02\lista01\questao21.h
+
+1681517785 source:c:\users\samue\aed02\lista01\questao22.c
+	<stdio.h>
+	<stdlib.h>
+	"questao22.h"
+
+1681510304 c:\users\samue\aed02\lista01\questao22.h
+
+1681515047 c:\users\samue\aed02\lista01\questao23.h
+
+1681519940 source:c:\users\samue\aed02\lista01\questao23.c
+	<stdio.h>
+	<stdlib.h>
+	"questao23.h"
+
+1681519980 c:\users\samue\aed02\lista01\questao24.h
+
+1681525564 source:c:\users\samue\aed02\lista01\questao24.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"questao24.h"
 

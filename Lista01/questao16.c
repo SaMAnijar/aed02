@@ -1,20 +1,39 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdbool.h>
 #include "questao16.h"
 
 void questao16(void){
     float salariobruto;
     float salarioliquido;
+    bool validacao;
 
+    entrada16( &salariobruto);
+
+    processamento16( &salariobruto, &salarioliquido, &validacao);
+
+    saida16( &salarioliquido, validacao);
+}
+
+void entrada16( float *salariob){
     printf("Informe o salario bruto para calcular o salario liquido: ");
-    scanf("%f", &salariobruto);
+    scanf("%f", salariob);
+}
 
-    if (salariobruto < 2000){
-        salarioliquido = salariobruto - (salariobruto * 0.1);
-        printf("O salario liquido eh: R$%.2f.", salarioliquido);
+void processamento16( float *salariob, float *salarioliq, bool *val){
+    if (*salariob < 2000){
+        *salarioliq = *salariob - (*salariob * 0.1);
+        *val = true;
+    }else{
+        *salarioliq = *salariob - (*salariob * 0.2);
+        *val = false;
     }
-    else{
-        salarioliquido = salariobruto - (salariobruto * 0.2);
-        printf("O salario liquido eh: R$%.2f.", salarioliquido);
+}
+
+void saida16( float *salarioliq, bool val){
+    if(val){
+        printf("O salario liquido eh: R$%.2f.", *salarioliq);
+    }else{
+        printf("O salario liquido eh: R$%.2f.", *salarioliq);
     }
 }

@@ -20,9 +20,13 @@
 #include "questao18.h"
 #include "questao19.h"
 #include "questao20.h"
+#include "questao21.h"
+#include "questao22.h"
+#include "questao23.h"
+#include "questao24.h"
 
 int main(){
-    questao20();
+    questao24();
 
     return 0;
 }

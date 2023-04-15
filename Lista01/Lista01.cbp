@@ -114,6 +114,22 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="questao20.h" />
+		<Unit filename="questao21.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questao21.h" />
+		<Unit filename="questao22.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questao22.h" />
+		<Unit filename="questao23.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questao23.h" />
+		<Unit filename="questao24.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="questao24.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
