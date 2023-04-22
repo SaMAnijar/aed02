@@ -26,7 +26,7 @@
 #include "questao24.h"
 
 int main(){
-    questao24();
+    questao01();
 
     return 0;
 }
