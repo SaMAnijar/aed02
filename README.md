@@ -4,4 +4,5 @@ Estrutura de Dados 02
 Git;
 Bibliotecas;
 Funções;
-Ponteiro.
+Ponteiro;
+Metodo de ordenação.
